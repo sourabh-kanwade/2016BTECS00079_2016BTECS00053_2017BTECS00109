@@ -11,6 +11,8 @@ To compute this ratio, we need a reference object with two important properties:
            Provided that both of these properties can be met, you can utilize your reference object to calibrate your pixels_per_metric                variable, and from there, compute the size of other objects in an image.
        
 Requirements : 1)OpenCV 2)Python 3.6 3)imutils
+
+
 Run Command : python object_size.py --image 'path to image'/example_01.png --width 'width in cm'
 
 Project by -
